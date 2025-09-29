@@ -1,0 +1,2 @@
+# STM32G431CBT6-FOC-V1
+这是FOC的电路板
