@@ -7,7 +7,7 @@ stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_d
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Include/core_cm4.h
-stm32g431cbt6-foc-v1\main.o: E:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+stm32g431cbt6-foc-v1\main.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -15,7 +15,7 @@ stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-stm32g431cbt6-foc-v1\main.o: E:\MDK5.36\ARM\ARMCC\Bin\..\include\stddef.h
+stm32g431cbt6-foc-v1\main.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stddef.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
@@ -36,7 +36,7 @@ stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_t
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart.h
 stm32g431cbt6-foc-v1\main.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h
-stm32g431cbt6-foc-v1\main.o: E:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
+stm32g431cbt6-foc-v1\main.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/delay.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/main.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/adc.h
@@ -47,11 +47,11 @@ stm32g431cbt6-foc-v1\main.o: ../Core/Inc/gpio.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/foc_common.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/lowpass_filter.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/foc_common.h
-stm32g431cbt6-foc-v1\main.o: E:\MDK5.36\ARM\ARMCC\Bin\..\include\math.h
+stm32g431cbt6-foc-v1\main.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\math.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/encoder.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/foc_Inlinecurrent.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/pid.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/foc_closeloop_control.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/foc_dataprocess.h
 stm32g431cbt6-foc-v1\main.o: ../Core/Inc/fdcan.h
-stm32g431cbt6-foc-v1\main.o: E:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
+stm32g431cbt6-foc-v1\main.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\string.h
