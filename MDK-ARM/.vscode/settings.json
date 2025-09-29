@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "foc_dataprocess.h": "c",
+        "main.h": "c"
+    }
+}
